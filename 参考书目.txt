@@ -1,0 +1,228 @@
+客户管理管理，王永贵，清华大学出版社、北京交通大学出版社，2012年
+董伊人、何健 等译，《市场营销》（第9版），（美）罗杰.A.凯琳、史蒂文.w.哈
+邵冰甲等，客户关系管理(第二版)，清华大学出版社，2010
+威廉.G.奇克蒙德等，客户关系管理，中国人民大学，2010
+
+企业客户关系管理系统的设计与实现
+【作者】 张畅； 
+
+【导师】 赵冬范； 
+
+【作者基本信息】 吉林大学， 软件工程（专业学位）， 2016， 硕士
+
+--
+[2] 丰乃波.  中小广告企业客户管理系统开发[J]. 中国有线电视. 2015(04) 
+[3] 王春梅,陈学明.  基于Oracle数据库电信CRM经营分析系统的性能优化[J]. 计算机与数字工程. 2015(03) 
+[4] 胡守红.  基于Oracle 10G管网属性数据库系统[J]. 油气田地面工程. 2014(10) 
+[5] 肖烁.  CRM客户管理系统在中小企业的开发和应用[J]. 计算机光盘软件与应用. 2014(15) 
+[6] 胡昌文,李彦,贺文爱,农冬冬,谢卫民.  基于Oracle数据库的RAC集群技术在高校图书馆关键业务中的应用研究[J]. 图书馆理论与实践. 2014(06) 
+[7] 杨鸣,山毓俊,张夕,白冰.  基于客户管理系统的研发与应用实现对客户的优化管理[J]. 现代测量与实验室管理. 2013(06) 
+[8] 李恒武,杨国辉,吴东明.  基于MyEclipse和Oracle技术的人力资源管理系统分析与设计[J]. 网络安全技术与应用. 2013(11) 
+[9] 常祖政.  My Eclipse+Dream weaver搭建Java Web开发环境[J]. 电脑开发与应用. 2013(09) 
+[10] 符起道.  基于C/S和B/S模式的国土资源档案管理系统[J]. 兰台世界. 2013(S3) 
+[1] André Cruz,André Vasconcelos.  A Reference Application Architecture for the CRM Domain: The Portuguese Citizen Space Case Study[J]. International Journal of Enterprise Information Systems (IJEIS) . 2015 (2) 
+[2] Wanek-Libman,Mischa.  Oracles, soothsayers and meteorologists[J]. Railway Track & Structures . 2015 (2) 
+[3] Costas Assimakopoulos,Eugenia Papaioannou,Christos Sarmaniotis,Christos K. Georgiadis.  Online reviews as a feedback mechanism for hotel CRM systems[J]. Anatolia . 2015 (1) 
+[4] Rajeev Kaula.  Data Modeling of Web Site Structure: An Oracle Prototype[J]. Journal of Software . 2014 (6) 
+[5] érica Ferreira de Souza,Ricardo de Almeida Falbo,Nandamudi L. Vijaykumar.  Knowledge management initiatives in software testing: A mapping study[J]. Information and Software Technology . 2014
+[6] Wenping Li,Weiqing Wang,Yi Zhao.  Research and Development on Survey and Statistical Analysis Software of Resident Travel OD Based on B/S Mode[J]. Procedia - Social and Behavioral Sciences . 2013
+[7] ZongDa Wu,GuanDong Xu,Zong Yu,Xun Yi,EnHong Chen,YanChun Zhang.  Executing SQL queries over encrypted character strings in the Database-As-Service model[J]. Knowledge-Based Systems . 2012
+[8] Nance,Barry.  Microsoft raises bar with SQL Server[J]. EN . 2012 (13) 
+[9] G.S. Bhat,R. Jagannathan.  Moisture depletion in the surface layer in response to an annular solar eclipse[J]. Journal of Atmospheric and Solar-Terrestrial Physics . 2012
+[10] B.M. Vyas,Surendra Sunda.  The solar eclipse and its associated ionospheric TEC variations over Indian stations on January 15, 2010[J]. Advances in Space Research . 2011 (3) 
+
+
+
+[1] 龚强.  国外云计算发展现状综述[J]. 信息技术. 2013(06) 
+[2] 龚强.  云计算及其在地理信息工程中的应用[J]. 测绘与空间地理信息. 2012(01) 
+[3] 蔡恩泽.  云产业风生水起[J]. 海峡科技与产业. 2011(10) 
+[4] 刘建芳,夏栋梁.  XML序列化机制在客户关系管理中的应用[J]. 电脑开发与应用. 2011(02) 
+[5] 曹礼和.  顾客满意度理论模型与测评体系研究[J]. 湖北经济学院学报. 2007(01) 
+[6] 刘英姿,姚兰,严赤卫.  基于价值链的客户价值分析[J]. 管理工程学报. 2004(04) 
+[7] 徐忠海,王玲.  基于客户关系生命周期的CRM理念[J]. 科研管理. 2003(06) 
+[8] 凌建勋,凌文辁,方俐洛.  营销学的新发展——顾客关系管理[J]. 现代管理科学. 2002(12) 
+[9] 齐佳音,韩新民,李怀祖.  一种新的客户-企业价值评价体系的设计[J]. 管理工程学报. 2002(04) 
+[10] 陈明亮.  客户生命周期模式研究[J]. 浙江大学学报(人文社会科学版). 2002(06) 
+
+
+国际期刊数据库
+
+共找到 4 条 
+[1] Lizhe Wang,Gregor Laszewski,Andrew Younge,Xi He,Marcel Kunze,Jie Tao,Cheng Fu.  Cloud Computing: a Perspective Study[J]. New Generation Computing . 2010 (2) 
+[2] Fay Chang,Jeffrey Dean,Sanjay Ghemawat,Wilson C. Hsieh,Deborah A. Wallach,Mike Burrows,Tushar Chandra,Andrew Fikes,Robert E. Gruber.  Bigtable[J]. ACM Transactions on Computer Systems (TOCS) . 2008 (2) 
+[3] Jeffrey Dean,Sanjay Ghemawat.  MapReduce[J]. Communications of the ACM . 2008 (1) 
+[4] Sanjay Ghemawat,Howard Gobioff,Shun-Tak Leung.  The Google file system[J]. ACM SIGOPS Operating Systems Review . 2003 (5) 
+
+
+更多 
+
+外文题录数据库
+
+共找到 14 条 
+[1] Cachin C,Haas R,Vukolic M.Dependable storage in the Intercloud. IBM Research . 2010
+[2] Wikipedia.Cloud Computing. http://en.wikipedia.org/wiki/Cloud_computing . 
+[3] J.Varia,S.Mathew.Overview of amazon web services. Amazon Web Services . 2012
+[4] Calder B,Wang J,Ogus A, et al.Windows Azure Storage:a highly available cloud storage service with strong consistency. Proceedings of the Twenty-Third ACM Symposium on Operating Systems Principles . 2011
+[5] Ciurana E.Google App Engine. Developing with Google App Engine . 2009
+[6] Apache.Welcome to apache Hadoop. http://hadoop.apache.org/ . 
+[7] Spring Framework[EB\OL]. http://projects.spring.io/spring-framework/ . 
+[8] Apache Solr EB/OL]. http://Lucene.apache.org/solr/ . 
+[9] van Surksum K.Paper:VDI Smackdown-solutions overview and feature comparison matrix version 2.0. . 2013
+[10] Wikipedia.Grid computing. http://en.wikipedia.org/wiki/Grid_computing . 
+
+
+
+
+
+《中国学术期刊（网络版）》
+
+共找到 21 条 
+[1] 赵萌,齐佳音.  基于购买行为RFM及评论行为RFMP模型的客户终身价值研究[J]. 统计与信息论坛. 2014(09) 
+[2] 张秋艳.  浅析客户关系管理的成功因素[J]. 现代企业教育. 2012(22) 
+[3] 徐翔斌,王佳强,涂欢,穆明.  基于改进RFM模型的电子商务客户细分[J]. 计算机应用. 2012(05) 
+[4] 郑细端,张苏红,阮学斌.  基于.NET三层架构的酒店管理系统设计与实现[J]. 计算机与数字工程. 2011(08) 
+[5] 瞿艳平.  国内外客户关系管理理论研究述评与展望[J]. 财经论丛. 2011(03) 
+[6] 杜修平,王中.  基于决策树的证券客户流失模型[J]. 计算机应用与软件. 2009(09) 
+[7] 雷小锋,谢昆青,林帆,夏征义.  一种基于K-Means局部最优性的高效聚类算法[J]. 软件学报. 2008(07) 
+[8] 张智慧.  国际酒店业信息化对中国酒店业启示[J]. 承德职业学院学报. 2007(02) 
+[9] 孟海.  论企业运用CRM提高顾客忠诚度[J]. 内蒙古科技与经济. 2007(05) 
+[10] 蔡平.  论饭店业客户关系管理[J]. 商业时代. 2006(17) 
+
+
+中国优秀硕士学位论文全文数据库
+
+共找到 2 条 
+[1] 计海斌.  基于改进RFM模型的应用研究[D]. 吉林大学 2010
+[2] 曾庆军.  基于数据仓库的CRM系统设计与应用[D]. 重庆大学 2006
+
+
+中国图书全文数据库
+
+共找到 2 条 
+[1] 谷再秋,著.CRM理论与实践[M]. 经济科学出版社, 2009
+[2] 叶开著.中国CRM最佳实务[M]. 电子工业出版社, 2005
+
+
+国际期刊数据库
+
+共找到 8 条 
+[1] Geoff Lancaster,Diana Luck.  Applications of Customer Relationship Marketing in the UK Hospitality Industry[J]. International Journal of Customer Relationship Marketing and Management (IJCRMM) . 2010 (4) 
+[2] Edwin N. Torres,Sheryl Kline.  From satisfaction to delight: a model for the hotel industry[J]. International Journal of Contemporary Hospitality Management . 2006 (4) 
+[3] Kuo-Liang Chung,Jhin-Sian Lin.  Faster and more robust point symmetry-based K-means algorithm[J]. Pattern Recognition . 2005 (2) 
+[4] Marianna Sigala.  Integrating customer relationship management in hotel operations: managerial and operational implications[J]. International Journal of Hospitality Management . 2004 (3) 
+[5] Couchen Wu,Hsiu-Li Chen.  Counting your customers: Compounding customer’s in-store decisions, interpurchase time and repurchasing behavior[J]. European Journal of Operational Research . 2000 (1) 
+[6] Joe Peppard.  Customer Relationship Management (CRM) in financial services[J]. European Management Journal . 2000 (3) 
+[7] E.H. Suh,K.C. Noh,C.K. Suh.  Customer list segmentation using the combined response model[J]. Expert Systems With Applications . 1999 (2) 
+[8] Leonard L. Berry.  Relationship marketing of services—growing interest, emerging perspectives[J]. Journal of the Academy of Marketing Science . 1995 (4) 
+
+
+更多 
+
+外文题录数据库
+
+共找到 12 条 
+[1] Hamerly G,C Elkan.Learning the k in k-means. Advances in Neural Information Processing Systems 16 . 2003
+[2] Hughes,A.Boosting response with RFM. American Demographics . 1996
+[3] Xiong, Hui,Wu, Junjie,Chen, Jian.K-means clustering versus validation measures: A data-distribution perspective. IEEE Transactions on Systems Man and Cybernetics . 2009
+[4] Jill Dyche.The CRM Handbook : a Business Guide to Customer Relationship Management. . 2001
+[5] Garcia-Murillo M,Annabi H.Customer knowledge management. Journal of the Operational Research Society . 2002
+[6] Don Peppers,Martha Rogers.The one-to-one manager:.Real-World Lessons in Customer Relationship Management. . 1999
+[7] Hughes.A.M.Strategic datebase marketing. . 
+[8] JAINAK,MUTRTY M N,FLYMN P J.Data clustering.A Review. ACM Computing Surveys . 1999
+[9] inneburg A,Keim D. A."Clustering Techniques for Large Data Sets: From the Past to the Future". Proc. Int. Conf. on Knowledge Discovery in Databases (KDD‘99) . 1999
+[10] Berry L.L.Relationship marketing. . 1982
+
+
+
+参考文献】 说明：反映本文研究工作的背景和依据
+
+
+全部 《中国学术期刊（网络版）》 中国博士学位论文全文数据库 中国优秀硕士学位论文全文数据库 中国重要会议论文全文数据库 中国重要报纸全文数据库 国际会议论文全文数据库 中国专利数据库 中国标准数据库 中国图书全文数据库 中国年鉴网络出版总库 国际期刊数据库 外文题录数据库
+
+
+
+《中国学术期刊（网络版）》
+
+共找到 9 条 
+[1] 纪红.  基于项目管理的企业市场营销活动[J]. 现代商业. 2009(20) 
+[2] 崔自三.  销售主管如何进行有效的销售过程管理[J]. 现代营销(经营版). 2009(02) 
+[3] 范振钧.  基于ASP.net的三层结构实现方法研究[J]. 计算机科学. 2007(04) 
+[4] 徐霆.  营销执行力重在过程管理[J]. 化工管理. 2007(04) 
+[5] 梁东,喻峰.  从营销人员职能转变看现代营销革命[J]. 商业时代. 2006(32) 
+[6] 刘志彬.  企业如何进行有效的绩效管理[J]. 科技情报开发与经济. 2005(19) 
+[7] 丁兴良.  大客户销售三步曲之一 找对人:烧香不能拜错佛(上)[J]. 中国商贸. 2005(08) 
+[8] 胡劲,黄嘉涛.  论企业营销竞争力体系构建原则[J]. 计划与市场探索. 2004(03) 
+[9] 芮新国.  过程结果,环环相扣[J]. 中国商贸. 2002(07) 
+
+
+中国图书全文数据库
+
+共找到 5 条 
+[1] 绳鹏主编.销售行为学[M]. 中国社会科学出版社, 2005
+[2] 李先国主编.销售管理[M]. 中国人民大学出版社, 2004
+[3] 周文辉著.大客户营销[M]. 广东经济出版社, 2004
+[4] (美)PhilipKotler著,宋学宝,卫静译.营销管理[M]. 清华大学出版社, 2003
+[5] (美)拉尔夫·W.杰克逊(RalphW.Jackson),(美)罗伯特·D.希里奇(RobertD.Hisrich)著,李扣庆等译.销售管理[M]. 中国人民大学出版社, 2001
+
+
+【参考文献】 说明：反映本文研究工作的背景和依据
+
+
+全部 《中国学术期刊（网络版）》 中国博士学位论文全文数据库 中国优秀硕士学位论文全文数据库 中国重要会议论文全文数据库 中国重要报纸全文数据库 国际会议论文全文数据库 中国专利数据库 中国标准数据库 中国图书全文数据库 中国年鉴网络出版总库 国际期刊数据库 外文题录数据库
+
+
+
+《中国学术期刊（网络版）》
+
+共找到 2 条 
+[1] 王永贵,董大海.  客户关系管理的研究现状、不足和未来展望[J]. 中国流通经济. 2004(06) 
+[2] 刘晓文,郑方.  关于企业实施CRM,加强以客户为中心管理理念的思考[J]. 山西财政税务专科学校学报. 2004(02) 
+
+
+外文题录数据库
+
+共找到 8 条 
+[1] http://www.salesforce.com/us/developer/docs/daas/index.htm . 
+[2] http://zh.wikipedia.org/wiki/MVC . 2013
+[3] Force.com Platform Fundamentals, salesforce.com. http://www.salesforce.com/us/developer/docs/fundamentals/index.htm . 2013
+[4] Migration Tool Guide. salesforce.com . 2013
+[5] http://zh.wikipedia.org/wiki/%E8%A7%A6%E5%8F%91%E5%99%A8%E6%95 %B0%E6%8D%AE%E5%BA%93 . 2013
+[6] Visualforce Developer’’s Guide,salesforce.com. http://www.salesforce.com/us/developer/docs/pages/index_Left.htm . 2013
+[7] Force.com Apex Code Developer’’s Guide, salesforce.com. http://www.salesforce.com/us/developer/docs/apexcode/index_Left.htm . 2013
+[8] api.SOAP API Developer’’s Guide. http://www.salesforce.com/us/developer/docs/api/index.htm . 2013
+
+
+
+
+中国优秀硕士学位论文全文数据库
+
+共找到 7 条 
+[1] 王峥.  面向电子商务的CRM系统分析与设计[D]. 北京邮电大学 2012
+[2] 牛璐.  基于Android的3G移动警务系统的研究与实现[D]. 东北大学 2012
+[3] 楼珺敏.  基于.NET的企业管理系统的研发[D]. 电子科技大学 2011
+[4] 李参.  销售自动化系统（SFA）在中小企业的应用研究[D]. 北京交通大学 2010
+[5] 赵雪平.  企业移动销售管理软件的设计与实现[D]. 华东师范大学 2009
+[6] 肖国元.  基于智能手机的GPS导航系统的设计与实现[D]. 北京邮电大学 2008
+[7] 黄建寅.  销售团队自动化系统的设计与实现[D]. 天津大学 2007
+
+
+中国图书全文数据库
+
+共找到 1 条 
+[1] 刘云浩,编著.物联网导论[M]. 科学出版社, 2010
+
+
+国际期刊数据库
+
+共找到 2 条 
+[1]   Secure mobile sales force automation: the case of independent sales agencies[J]. Information Systems and e-Business Management . 2012 (1) 
+[2] George Wright,Keith Fletcher,Bill Donaldson,Jong-Ho Lee.  Sales force automation systems: An analysis of factors underpinning the sophistication of deployed systems in the UK financial services industry[J]. Industrial Marketing Management . 2007 (8) 
+
+
+外文题录数据库
+
+共找到 4 条 
+[1] ANCKAR B,D‘INCAU D.Value creation in mobilecommerce:findings from a consumer survey. Jour-nal of Information Technology Theory and Applica-tion . 2002
+[2] Benjamin Speckmann.The Android mobile platform. . 2008
+[3] Chris Haseman.Android Essentials. . 2008
+[4] John Scorias.Overview of the Global System for Mobile Communi cat ions:GSM. http://www.privateline.com/mt_gsmhistory/ . 1999
